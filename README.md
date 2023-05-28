@@ -1,4 +1,4 @@
-# The_Watermark_Challenge
+# The Watermark Challenge
 The Watermark Challenge by MachineHack 
 
 #### Problem Statement 
